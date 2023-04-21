@@ -1,0 +1,13 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background: red;
+}
+#n1{
+  background: skyblue;
+}
+#n2{
+  background: yellowgreen;
+}
